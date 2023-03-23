@@ -1,7 +1,6 @@
 #fibonacci series:
 
 a , b = 0 , 1
-number = []
 term = int(input("Enter the number of term: "))
 if term ==1:
  print(0)
